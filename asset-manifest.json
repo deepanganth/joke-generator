@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/joke-generator/static/css/main.ccbf7639.css",
+    "main.js": "/joke-generator/static/js/main.318f6313.js",
+    "static/js/787.b0a5a3f9.chunk.js": "/joke-generator/static/js/787.b0a5a3f9.chunk.js",
+    "static/media/bg-1.jpg": "/joke-generator/static/media/bg-1.62ea80642e4ce4bc6ea6.jpg",
+    "static/media/4.png": "/joke-generator/static/media/4.ce1d1e711dfada5f39cb.png",
+    "static/media/1.png": "/joke-generator/static/media/1.ee8048dc51ab5864e732.png",
+    "static/media/7.png": "/joke-generator/static/media/7.1d3d632187bf28723062.png",
+    "static/media/3.png": "/joke-generator/static/media/3.10165e5e0c5ea5c98562.png",
+    "static/media/12.png": "/joke-generator/static/media/12.73135d1f604480b36a8c.png",
+    "static/media/6.png": "/joke-generator/static/media/6.e4f30ab0cd037867c8eb.png",
+    "static/media/11.png": "/joke-generator/static/media/11.9c46c06ac761470a2b11.png",
+    "static/media/8.png": "/joke-generator/static/media/8.4967ddf76af2e9e7cf92.png",
+    "static/media/5.png": "/joke-generator/static/media/5.29f554f9ed1f81e5556f.png",
+    "static/media/9.png": "/joke-generator/static/media/9.cede6ba787236295c0c8.png",
+    "static/media/2.png": "/joke-generator/static/media/2.9f5b6025a080aa646c7b.png",
+    "static/media/10.png": "/joke-generator/static/media/10.3c110d89952200a04f00.png",
+    "index.html": "/joke-generator/index.html",
+    "main.ccbf7639.css.map": "/joke-generator/static/css/main.ccbf7639.css.map",
+    "main.318f6313.js.map": "/joke-generator/static/js/main.318f6313.js.map",
+    "787.b0a5a3f9.chunk.js.map": "/joke-generator/static/js/787.b0a5a3f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbf7639.css",
+    "static/js/main.318f6313.js"
+  ]
+}
